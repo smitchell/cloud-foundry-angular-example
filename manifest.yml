@@ -4,4 +4,5 @@ applications:
     name: angular-example
     memory: 18m
     path: dist/cloud-foundry-angular-example/
-    random-route: true
+    routes:
+      - route: angular-example.test.medzero.cfapps.io
