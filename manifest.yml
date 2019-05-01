@@ -3,5 +3,6 @@ applications:
   - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
     name: angular-example
     memory: 18m
-    path: dist/cloud-foundry-angular-example/
-    random-route: true
+    path: dist/
+    routes:
+      - route: http://angular-example.dev.cfdev.sh/angular-example
