@@ -5,4 +5,4 @@ applications:
     memory: 18m
     path: dist/
     routes:
-      - route: http://angular-example.dev.cfdev.sh/angular-example
+      - route: angular-example.test.medzero.cfapps.io
