@@ -5,4 +5,4 @@ applications:
     memory: 18m
     path: dist/
     routes:
-      - route: https://auth-example.test.medzero.cfapps.io
+      - route: angular-example.test.medzero.cfapps.io
