@@ -4,5 +4,5 @@ applications:
     name: angular-example
     memory: 18m
     path: dist/
-    routes:
-      - route: angular-example.test.medzero.cfapps.io
+#    routes:
+#      - route: angular-example.test.medzero.cfapps.io
