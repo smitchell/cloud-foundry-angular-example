@@ -7,7 +7,7 @@ This is one of three projects referenced by https://github.com/spring-projects/s
 
 ## How to run this project locally
 
-1) ng serve  --baseHref /angular-example/ 
+1) ng serve  --baseHref=/angular-example/ 
 
 ## Validation
 
